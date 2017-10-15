@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml
+		INJECTED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml
+		INJECTED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml
+		INJECTED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml
+application
+ADDED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/amustapha/.android/build-cache/3ad504c6b9863956303078dcdabed0178d4d17c0/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/amustapha/.android/build-cache/a09c8632704daf2c4200fc09bb5b00bc6771a73c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/amustapha/.android/build-cache/50ce2dff7689f70e6dcf8ccde4381e41a6ba1069/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/amustapha/.android/build-cache/eb92677368180e02728d5c3fbbe37cc062c8612c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/amustapha/.android/build-cache/7ebbd8fab3c8cdaa48cdf60aae46401e677a9fd7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/amustapha/.android/build-cache/b62857f25936083a7cab0712eade140f9006b052/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/amustapha/.android/build-cache/997fbedb9c081dc76856e45d48d08c363958f232/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/amustapha/.android/build-cache/682570f56136260699bb638eb607f816aa4f7e32/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/amustapha/.android/build-cache/084db015a28193417c570c42d84e803deef9a175/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/amustapha/.android/build-cache/e3fe5cc69c6f3fc9d39160bfb9e6945284adc374/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/amustapha/.android/build-cache/d12d6001f9b157e402a029bc7ec252eddab681ef/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/amustapha/.android/build-cache/2943c8e15c9891827ef2cd6c4e8d69fb56bb02d1/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml:11:9-40
+activity#ng.org.ddhub.basic.MainActivity
+ADDED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/amustapha/.android/build-cache/3ad504c6b9863956303078dcdabed0178d4d17c0/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/amustapha/.android/build-cache/a09c8632704daf2c4200fc09bb5b00bc6771a73c/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/amustapha/.android/build-cache/50ce2dff7689f70e6dcf8ccde4381e41a6ba1069/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/amustapha/.android/build-cache/eb92677368180e02728d5c3fbbe37cc062c8612c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/amustapha/.android/build-cache/7ebbd8fab3c8cdaa48cdf60aae46401e677a9fd7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/amustapha/.android/build-cache/c47fe11bf48bc70c6e2a802b19149ccd5a2c5b71/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/amustapha/.android/build-cache/b62857f25936083a7cab0712eade140f9006b052/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/amustapha/.android/build-cache/997fbedb9c081dc76856e45d48d08c363958f232/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/amustapha/.android/build-cache/682570f56136260699bb638eb607f816aa4f7e32/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/amustapha/.android/build-cache/084db015a28193417c570c42d84e803deef9a175/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/amustapha/.android/build-cache/e3fe5cc69c6f3fc9d39160bfb9e6945284adc374/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/amustapha/.android/build-cache/d12d6001f9b157e402a029bc7ec252eddab681ef/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/amustapha/.android/build-cache/2943c8e15c9891827ef2cd6c4e8d69fb56bb02d1/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/amustapha/.android/build-cache/a09c8632704daf2c4200fc09bb5b00bc6771a73c/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml
+		INJECTED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml
+		INJECTED from /media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/amustapha/.android/build-cache/a09c8632704daf2c4200fc09bb5b00bc6771a73c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/amustapha/.android/build-cache/50ce2dff7689f70e6dcf8ccde4381e41a6ba1069/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/amustapha/.android/build-cache/eb92677368180e02728d5c3fbbe37cc062c8612c/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/amustapha/.android/build-cache/7ebbd8fab3c8cdaa48cdf60aae46401e677a9fd7/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/amustapha/.android/build-cache/c47fe11bf48bc70c6e2a802b19149ccd5a2c5b71/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/amustapha/.android/build-cache/b62857f25936083a7cab0712eade140f9006b052/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/amustapha/.android/build-cache/997fbedb9c081dc76856e45d48d08c363958f232/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/amustapha/.android/build-cache/682570f56136260699bb638eb607f816aa4f7e32/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/amustapha/.android/build-cache/084db015a28193417c570c42d84e803deef9a175/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/amustapha/.android/build-cache/e3fe5cc69c6f3fc9d39160bfb9e6945284adc374/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/amustapha/.android/build-cache/d12d6001f9b157e402a029bc7ec252eddab681ef/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/amustapha/.android/build-cache/2943c8e15c9891827ef2cd6c4e8d69fb56bb02d1/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/amustapha/.android/build-cache/a09c8632704daf2c4200fc09bb5b00bc6771a73c/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/amustapha/.android/build-cache/a09c8632704daf2c4200fc09bb5b00bc6771a73c/output/AndroidManifest.xml:26:9-47

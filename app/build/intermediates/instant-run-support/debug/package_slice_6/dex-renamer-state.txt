@@ -1,0 +1,4 @@
+#Sat Oct 07 11:28:01 WAT 2017
+base.0=/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+renamed.0=classes.dex
+file.0=/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

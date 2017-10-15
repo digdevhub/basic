@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/amustapha/.android/build-cache/d352ddb278aa82b581ea38754c5fd95617bd59be/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

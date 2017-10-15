@@ -1,0 +1,7 @@
+#Sun Oct 08 14:11:58 WAT 2017
+base.0=/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3cc5807acd441afd33ae340186573d50dbe33983
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6b9cc97101d8768d11bac43cfe5d1fccd97fdcd5/classes.dex
+base.1=/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6b9cc97101d8768d11bac43cfe5d1fccd97fdcd5
+file.0=/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3cc5807acd441afd33ae340186573d50dbe33983/classes.dex

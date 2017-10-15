@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/amustapha/.android/build-cache/50ce2dff7689f70e6dcf8ccde4381e41a6ba1069/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/amustapha/.android/build-cache/50ce2dff7689f70e6dcf8ccde4381e41a6ba1069/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/amustapha/.android/build-cache/50ce2dff7689f70e6dcf8ccde4381e41a6ba1069/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/amustapha/.android/build-cache/50ce2dff7689f70e6dcf8ccde4381e41a6ba1069/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

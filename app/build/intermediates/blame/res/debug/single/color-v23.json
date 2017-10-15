@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/amustapha/.android/build-cache/50ce2dff7689f70e6dcf8ccde4381e41a6ba1069/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/amustapha/.android/build-cache/50ce2dff7689f70e6dcf8ccde4381e41a6ba1069/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/amustapha/.android/build-cache/50ce2dff7689f70e6dcf8ccde4381e41a6ba1069/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/amustapha/.android/build-cache/50ce2dff7689f70e6dcf8ccde4381e41a6ba1069/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/amustapha/.android/build-cache/50ce2dff7689f70e6dcf8ccde4381e41a6ba1069/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/amustapha/.android/build-cache/50ce2dff7689f70e6dcf8ccde4381e41a6ba1069/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/amustapha/.android/build-cache/50ce2dff7689f70e6dcf8ccde4381e41a6ba1069/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/amustapha/.android/build-cache/50ce2dff7689f70e6dcf8ccde4381e41a6ba1069/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/amustapha/.android/build-cache/50ce2dff7689f70e6dcf8ccde4381e41a6ba1069/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/amustapha/.android/build-cache/50ce2dff7689f70e6dcf8ccde4381e41a6ba1069/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/media/amustapha/dcedec9a-59db-4e9e-add1-2b578f950348/Android/relearn/Basic/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/amustapha/.android/build-cache/a09c8632704daf2c4200fc09bb5b00bc6771a73c/output/res/color-v23/design_tint_password_toggle.xml"
+    }
+]
